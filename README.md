@@ -53,7 +53,7 @@ Use rclone config to set your store (according your needs, S3, FTP, local ...)
 ```bash
 rclone config
 ```
-NB : In this sample, we use a local store
+NB : In this sample, we use a local storage (n°24 in the config list) named "store"
 
 ## Krawler install
 Krawler is a minimalist ETL that make automated process of extracting and processing (geographic) data from heterogeneous sources with ease
@@ -78,9 +78,13 @@ yarn install
 yarn link @kalisio/krawler
 ```
 
-Run the job
+Set destination storage useb by rclone
 ```bash
 set STORE_PATH=c:\output
+```
+
+Run the job
+```bash
 krawler jobfile.js
 ```
 
