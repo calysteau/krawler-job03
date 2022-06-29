@@ -70,6 +70,7 @@ In the kalisio directory ( ex: C:\workspace\kalisio)
 git clone https://github.com/calysteau/krawler-job03
 cd krawler-job03
 yarn install
+yarn link @kalisio/krawler
 ```
 
 Run the job
