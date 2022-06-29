@@ -6,6 +6,8 @@
  
 It scrapes public Radar rainfall data from Meteo France public server. The downloaded images are stored in PNG format without any georeference information. The job first georeferenced the image and then converts it to COG format and copies it to a store.
 
+![Krawler_Meteo_Radar_Sample](https://www.calysteau.fr/images/Krawler_Meteo_Radar_Sample.jpg)
+
 ## Setting up the environment
 
 ### git install
