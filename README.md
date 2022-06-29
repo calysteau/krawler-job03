@@ -28,6 +28,8 @@ Yarn is a package manager that doubles down as project manager.
 
 Download and install : https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 
+Add yarn to Windows environment PATH variable
+
 ### GDAL install
 GDAL is a translator library for raster and vector geospatial data formats
 
@@ -43,6 +45,8 @@ set PATH=%PATH%;c:\Program Files\QGIS 3.24.0\bin
 Rclone is a command-line program to manage and transfer files on local or cloud storage.
 
 Download and install Rclone from https://downloads.rclone.org/v1.58.1/rclone-v1.58.1-windows-amd64.zip
+
+Add rclone to Windows environment PATH variable
 
 Use rclone config to set your store (according your needs, S3, FTP, local ...)
 
