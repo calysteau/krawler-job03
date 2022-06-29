@@ -2,7 +2,9 @@
 
  Download Meteo France Radar imagery using __Kalisio Krawler__ https://github.com/kalisio/krawler
  
- This sample is based on https://github.com/kalisio/k-meteoradar, adapted to run on Windows for development and training purpose
+ This sample is based on https://github.com/kalisio/k-meteoradar, adapted to run on Windows for development and training purpose.
+ 
+It scrapes public Radar rainfall data from Meteo France public server. The downloaded images are stored in PNG format without any georeference information. The job first georeferenced the image and then converts it to COG format and copies it to a store.
 
 ## Setting up the environment
 
