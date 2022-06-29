@@ -15,7 +15,7 @@ nvm is a version manager for node.js, designed to be installed per-user, and inv
 
 Download and install : https://github.com/coreybutler/nvm-windows
 
-Then install Node.js version 16
+Then install Node 16
 
 ```bash
 nvm install 16
