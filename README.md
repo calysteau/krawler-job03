@@ -82,7 +82,7 @@ yarn install
 yarn link @kalisio/krawler
 ```
 
-Set destination storage useb by rclone
+Set destination storage used by rclone
 ```bash
 set STORE_PATH=c:\output
 ```
