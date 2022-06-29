@@ -25,7 +25,7 @@ nvm use 16.15.1
 ### yarn install
 Yarn is a package manager that doubles down as project manager.
 
-Download : https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
+Download and install : https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 
 ### GDAL install
 GDAL is a translator library for raster and vector geospatial data formats
