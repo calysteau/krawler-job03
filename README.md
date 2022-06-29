@@ -80,6 +80,7 @@ yarn link @kalisio/krawler
 
 Run the job
 ```bash
+set STORE_PATH=c:\output
 krawler jobfile.js
 ```
 
