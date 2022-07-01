@@ -1,26 +1,25 @@
 {
-  "name": "k-meteoradar",
+  "name": "krawler-job03",
   "description": "A krwaler job to scrape Meteo France radar images",
   "version": "1.0.0",
-  "homepage": "https://github.com/kalisio/k-meteoradar",
+  "homepage": "https://github.com/calysteau/krawler-job03",
   "type": "module", 
   "keywords": [
     "krawler",
     "meteo",
     "radar",
-    "kargo"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/kalisio/k-meteoradar.git"
+    "url": "git://github.com/calysteau/krawler-job03.git"
   },
   "author": {
     "name": "Kalisio",
-    "url": "https://github.com/kalisio"
+    "url": "https://github.com/calysteau"
   },
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/kalisio/k-meteoradar/-/issues"
+    "url": "https://github.com/calysteau/krawler-job03/-/issues"
   },
   "scripts": {
     "test": "echo \"Warning: no test specified\"",
